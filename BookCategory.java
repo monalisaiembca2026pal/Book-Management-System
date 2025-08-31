@@ -1,0 +1,3 @@
+enum BookCategory {
+ FICTION, SCIENCE, HISTORY, TECHNOLOGY, COMICS;
+}
